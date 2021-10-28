@@ -1,0 +1,14 @@
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.exe
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.deps.json
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.runtimeconfig.json
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.runtimeconfig.dev.json
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.dll
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\bin\Debug\netcoreapp3.1\colorito-deliverable-2.pdb
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.csproj.AssemblyReference.cache
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.AssemblyInfoInputs.cache
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.AssemblyInfo.cs
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.csproj.CoreCompileInputs.cache
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.dll
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.pdb
+C:\Users\color\source\repos\colorito-deliverable-2\colorito-deliverable-2\obj\Debug\netcoreapp3.1\colorito-deliverable-2.genruntimeconfig.cache
